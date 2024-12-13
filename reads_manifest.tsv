@@ -1,0 +1,5 @@
+sample1	control	batch1	/mnt/research2/mjm280/cDNA_promethION_fastqs/cutadapt/NTC_A.trimmed.fastq
+sample2	control	batch1	/mnt/research2/mjm280/cDNA_promethION_fastqs/cutadapt/NTC_B.trimmed.fastq
+sample3	control	batch1	/mnt/research2/mjm280/cDNA_promethION_fastqs/cutadapt/NTC_C.trimmed.fastq  
+sample4	mir	batch1	/mnt/research2/mjm280/cDNA_promethION_fastqs/cutadapt/Mir2_B.trimmed.fastq
+sample5	mir	batch1	/mnt/research2/mjm280/cDNA_promethION_fastqs/cutadapt/Mir2_C.trimmed.fastq
